@@ -62,7 +62,7 @@
         <p class="lead">Adopt a skill! These skills are untested and unmaintained, they might be functional but are in need of a maintainer!</p>
         <!-- Note about audio QR code installs -->
         <p>Note: Devices need to have the <a href="https://github.com/OpenVoiceOS/ovos-audio-transformer-plugin-ggwave">OVOS
-            GGWave Plugin</a> installed and enabled for audio QR code installs to work.</p>
+            GGWave Plugin</a> installed and enabled for audio QR code installs to work. Skills will be installed directly from github</p>
         <hr class="my-4">
         <p>Below, you'll find a list of available skills:</p>
     </div>
@@ -81,7 +81,7 @@
                 <h5 class="card-title">{{ skill.name }}</h5> <!-- Skill name -->
                 <p class="card-text">{{ skill.description }}</p> <!-- Skill description -->
                 <!-- Audio QR Code Install button -->
-                <button class="audio-qr-code-install-button" @click="transmitPackage(skill.package_name)">Audio QR Code
+                <button class="audio-qr-code-install-button" @click="transmitPackage(skill.source)">Audio QR Code
                     Install
                 </button>
             </div>
@@ -140,7 +140,7 @@
         init();
 
         // Generate audio waveform with the package name
-        var waveform = ggwave.encode(instance, "PIP:" + packageName, ggwave.ProtocolId.GGWAVE_PROTOCOL_AUDIBLE_FAST, 10);
+        var waveform = ggwave.encode(instance, "GHS:" + packageName, ggwave.ProtocolId.GGWAVE_PROTOCOL_AUDIBLE_FAST, 10);
 
         // Play audio
         var buf = convertTypedArray(waveform, Float32Array);
