@@ -110,7 +110,7 @@
             "icon": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/question.svg",
             "images": [],
             "name": "Number Guess",
-            "description": "Play Number Guess with Mycroft. Mycroft generates a random number between a lower and upper bound, and you try to guess it.",
+            "description": "Play Number Guess with OVOS. OVOS generates a random number between a lower and upper bound, and you try to guess it.",
             "examples": [
                 "Let's play Number Guess",
                 "Play Number Guess",
@@ -231,9 +231,9 @@
             "name": "Bedtime Stories",
             "description": "Listen to famous bedtime stories.",
             "examples": [
-                "Hey mycroft, read me a bedtime story",
-                "Hey mycroft, what bedtime stories do you know",
-                "Hey mycroft, read me little red riding hood"
+                "read me a bedtime story",
+                "what bedtime stories do you know",
+                "read me little red riding hood"
             ],
             "tags": [
                 "stories",
@@ -321,8 +321,8 @@
             "name": "Command Skill",
             "description": "A Simple OVOS skill for running shell scripts and other commands. The commands will run quietly without any confirmation from OVOS.",
             "examples": [
-                "Hey Mycroft, launch command echo TEST",
-                "Hey Mycroft, run script generate report"
+                "launch command echo TEST",
+                "run script generate report"
             ],
             "tags": []
         },
@@ -605,10 +605,10 @@
             "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Generic_Feed-icon.svg/800px-Generic_Feed-icon.svg.png",
             "images": [],
             "name": "RSS Feed Reader",
-            "description": "An overly complicated reader for RSS feeds. A skill allowing Mycroft to fetch and read headlines and article summaries.",
+            "description": "An overly complicated reader for RSS feeds. A skill allowing OVOS to fetch and read headlines and article summaries.",
             "examples": [
-                "Hey Mycroft, what are the latest headlines from slashdot.org",
-                "Hey Mycroft, read about elon musk's new project"
+                "what are the latest headlines from slashdot.org",
+                "read about elon musk's new project"
             ],
             "tags": []
         },
@@ -629,15 +629,14 @@
             "name": "Diagnostics",
             "description": "Aids you in diagnosing OVOS related issues. Provides various diagnostic functions such as checking CPU usage, drive space, public IP, uptime, etc.",
             "examples": [
-                "Mycroft, what is the current CPU percent?",
-                "Mycroft, run diagnostics.",
-                "Mycroft, how's my hard drive space?",
-                "Mycroft, what is my public IP?",
-                "Mycroft, what's your uptime?"
+                "what is the current CPU percent?",
+                "run diagnostics.",
+                "how's my hard drive space?",
+                "what is my public IP?",
+                "what's your uptime?"
             ],
             "tags": [
                 "diagnostics",
-                "mycroft",
                 "cpu",
                 "drive space",
                 "public IP",
@@ -733,11 +732,11 @@
             "name": "Food Wizard",
             "description": "Get popular recipes and how-to-cook directions based on a combination of ingredient keywords. Powered by Edamam.",
             "examples": [
-                "Hey Mycroft search recipes with apple and honey",
-                "Hey Mycroft show recipes with chicken, honey and lime",
-                "Hey Mycroft open the recipe mexican chicken lime soup",
-                "Hey Mycroft read the current recipe ingredients",
-                "Hey Mycroft read the current recipe cooking instructions"
+                "search recipes with apple and honey",
+                "show recipes with chicken, honey and lime",
+                "open the recipe mexican chicken lime soup",
+                "read the current recipe ingredients",
+                "read the current recipe cooking instructions"
             ],
             "tags": [
                 "Food",
@@ -1028,7 +1027,7 @@
             "icon": "https://cdn.pixabay.com/photo/2016/07/23/13/18/pokemon-1536849_960_720.png",
             "images": [],
             "name": "Pokemon",
-            "description": "Aids you on your journey as a Pokemon Trainer. With this skill, you can ask Mycroft many different facts about Pokemon.",
+            "description": "Aids you on your journey as a Pokemon Trainer. With this skill, you can ask OVOS many different facts about Pokemon.",
             "examples": [
                 "What type is Pikachu?",
                 "How tall is Pikachu?",
@@ -1074,10 +1073,10 @@
             "name": "Let's Talk",
             "description": "A skill for OVOS that replies to various greetings.",
             "examples": [
-                "Mycroft, good morning",
-                "Mycroft, good afternoon",
-                "Mycroft, good evening",
-                "Mycroft, good night"
+                "good morning",
+                "good afternoon",
+                "good evening",
+                "good night"
             ],
             "tags": [
                 "greetings",
@@ -1318,8 +1317,8 @@
             "name": "Inspirational Quotes",
             "description": "Get inspired with quotes from Forismatic.",
             "examples": [
-                "Hey Mycroft, inspire me",
-                "Hey Mycroft, read me a quote"
+                "inspire me",
+                "read me a quote"
             ],
             "tags": [
                 "inspirational quotes",
@@ -1502,7 +1501,7 @@
             "name": "Desktop Control",
             "description": "Control your mouse and keyboard by voice.",
             "examples": [
-                "type Mycroft is awesome",
+                "type OpenVoiceOS is awesome",
                 "press the enter key",
                 "move mouse to 400 and 100",
                 "scroll up a bit",
