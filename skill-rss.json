@@ -13,10 +13,10 @@
   "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Generic_Feed-icon.svg/800px-Generic_Feed-icon.svg.png",
   "images": [],
   "name": "RSS Feed Reader",
-  "description": "An overly complicated reader for RSS feeds. A skill allowing Mycroft to fetch and read headlines and article summaries.",
+  "description": "An overly complicated reader for RSS feeds. A skill allowing OVOS to fetch and read headlines and article summaries.",
   "examples": [
-    "Hey Mycroft, what are the latest headlines from slashdot.org",
-    "Hey Mycroft, read about elon musk's new project"
+    "what are the latest headlines from slashdot.org",
+    "read about elon musk's new project"
   ],
   "tags": []
 }

@@ -15,15 +15,14 @@
   "name": "Diagnostics",
   "description": "Aids you in diagnosing OVOS related issues. Provides various diagnostic functions such as checking CPU usage, drive space, public IP, uptime, etc.",
   "examples": [
-    "Mycroft, what is the current CPU percent?",
-    "Mycroft, run diagnostics.",
-    "Mycroft, how's my hard drive space?",
-    "Mycroft, what is my public IP?",
-    "Mycroft, what's your uptime?"
+    "what is the current CPU percent?",
+    "run diagnostics.",
+    "how's my hard drive space?",
+    "what is my public IP?",
+    "what's your uptime?"
   ],
   "tags": [
     "diagnostics",
-    "mycroft",
     "cpu",
     "drive space",
     "public IP",

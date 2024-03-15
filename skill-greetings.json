@@ -15,10 +15,10 @@
   "name": "Let's Talk",
   "description": "A skill for OVOS that replies to various greetings.",
   "examples": [
-    "Mycroft, good morning",
-    "Mycroft, good afternoon",
-    "Mycroft, good evening",
-    "Mycroft, good night"
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "good night"
   ],
   "tags": ["greetings", "hello", "time", "conversation"]
 }

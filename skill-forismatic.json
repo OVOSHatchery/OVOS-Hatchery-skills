@@ -14,8 +14,8 @@
   "name": "Inspirational Quotes",
   "description": "Get inspired with quotes from Forismatic.",
   "examples": [
-    "Hey Mycroft, inspire me",
-    "Hey Mycroft, read me a quote"
+    "inspire me",
+    "read me a quote"
   ],
   "tags": [
     "inspirational quotes",

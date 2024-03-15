@@ -13,7 +13,7 @@
   "icon": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/question.svg",
   "images": [],
   "name": "Number Guess",
-  "description": "Play Number Guess with Mycroft. Mycroft generates a random number between a lower and upper bound, and you try to guess it.",
+  "description": "Play Number Guess with OVOS. OVOS generates a random number between a lower and upper bound, and you try to guess it.",
   "examples": [
     "Let's play Number Guess",
     "Play Number Guess",

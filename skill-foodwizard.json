@@ -15,11 +15,11 @@
   "name": "Food Wizard",
   "description": "Get popular recipes and how-to-cook directions based on a combination of ingredient keywords. Powered by Edamam.",
   "examples": [
-    "Hey Mycroft search recipes with apple and honey",
-    "Hey Mycroft show recipes with chicken, honey and lime",
-    "Hey Mycroft open the recipe mexican chicken lime soup",
-    "Hey Mycroft read the current recipe ingredients",
-    "Hey Mycroft read the current recipe cooking instructions"
+    "search recipes with apple and honey",
+    "show recipes with chicken, honey and lime",
+    "open the recipe mexican chicken lime soup",
+    "read the current recipe ingredients",
+    "read the current recipe cooking instructions"
   ],
   "tags": ["Food", "Recipes", "GUI", "Plasmoid", "KDE", "Ingredients", "Cooking"]
 }

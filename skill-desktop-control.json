@@ -14,7 +14,7 @@
   "name": "Desktop Control",
   "description": "Control your mouse and keyboard by voice.",
   "examples": [
-    "type Mycroft is awesome",
+    "type OpenVoiceOS is awesome",
     "press the enter key",
     "move mouse to 400 and 100",
     "scroll up a bit",

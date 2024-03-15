@@ -15,9 +15,9 @@
   "name": "Bedtime Stories",
   "description": "Listen to famous bedtime stories.",
   "examples": [
-    "Hey mycroft, read me a bedtime story",
-    "Hey mycroft, what bedtime stories do you know",
-    "Hey mycroft, read me little red riding hood"
+    "read me a bedtime story",
+    "what bedtime stories do you know",
+    "read me little red riding hood"
   ],
   "tags": [
     "stories",
