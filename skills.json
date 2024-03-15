@@ -283,8 +283,8 @@
             },
             "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sticky-note.svg",
             "images": [
-                "samples/notes-1.png",
-                "samples/notes-2.png"
+                "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-notes/dev/samples/notes-1.png",
+                "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-notes/dev/samples/notes-2.png"
             ],
             "name": "Notes",
             "description": "GUI ONLY. Take personal notes to keep track of appointments, to-do items, etc.",
@@ -762,7 +762,6 @@
             },
             "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/icon.png",
             "images": [
-                "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/logo.png",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/gui.gif",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/ui.png",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/website.png"
@@ -1455,7 +1454,6 @@
             },
             "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/icon.png",
             "images": [
-                "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/logo.png",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui.png",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui2.png",
                 "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui3.png",
