@@ -11,7 +11,8 @@
     "gui": []
   },
   "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/ui/iheart.png",
-  "images": ["https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/ui/gui.png", "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/ui/gui2.png"],
+  "images": ["https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/gui.png",
+             "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/gui2.png"],
   "name": "IHeartRadio",
   "description": "OCP skill for IHeartRadio. Note: IHeartRadio only provides podcasts outside the US.",
   "examples": [
