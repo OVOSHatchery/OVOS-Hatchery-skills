@@ -11,7 +11,7 @@
     "gui": []
   },
   "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/icon.png",
-  "images": ["https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/logo.png",
+  "images": [
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/gui.gif", 
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/ui.png", 
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/website.png"],

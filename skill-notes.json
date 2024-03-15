@@ -12,8 +12,8 @@
   },
   "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sticky-note.svg",
   "images": [
-    "samples/notes-1.png",
-    "samples/notes-2.png"
+    "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-notes/dev/samples/notes-1.png",
+    "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-notes/dev/samples/notes-2.png"
   ],
   "name": "Notes",
   "description": "GUI ONLY. Take personal notes to keep track of appointments, to-do items, etc.",

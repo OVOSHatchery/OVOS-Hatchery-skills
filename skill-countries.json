@@ -11,8 +11,7 @@
     "gui": []
   },
   "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/icon.png",
-  "images": ["https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/logo.png", 
-             "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui.png", 
+  "images": ["https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui.png",
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui2.png",
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui3.png",
              "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/gui4.png", 
