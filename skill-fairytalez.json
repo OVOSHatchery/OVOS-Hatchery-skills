@@ -1,6 +1,6 @@
 {
   "skill_id": "skill-fairytalez.andlo",
-  "source": "https://github.com/OVOSHatchery/fairytalez-skill",
+  "source": "https://github.com/andlo/fairytalez-skill",
   "package_name": "ovos-skill-fairytalez",
   "extra_plugins": {
     "core": [],
